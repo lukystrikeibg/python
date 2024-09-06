@@ -1,2 +1,2 @@
-# poker
-calcular la probabilidad de las barajas
+# proyectos de pyethon
+programas en python y rutinas de datos
